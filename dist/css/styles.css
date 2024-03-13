@@ -1,0 +1,22 @@
+.container {
+  padding: 20px;
+}
+
+.image-box {
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  position: relative;
+  padding-top: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.checkbox {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  cursor: pointer;
+  opacity: 0;
+}
+
+/*# sourceMappingURL=styles.css.map */
