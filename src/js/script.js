@@ -1,5 +1,3 @@
-const { append } = require("express/lib/response");
-
 $(document).ready(function(){
     const images=[
         "https://acre-image-collections.s3.amazonaws.com/image-6578722caea701702392364_medium.jpg",
