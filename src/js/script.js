@@ -26,7 +26,7 @@ $(document).ready(function(){
             if (this.checked) {
                 imageBox.classList.add('selected');
             }else{
-                imageBox.classList.remove('selected');            }
+                imageBox.classList.remove('selected');}
         });
 
 
